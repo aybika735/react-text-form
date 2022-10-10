@@ -8,13 +8,13 @@ input{
   height: 30px;
 }
 form button{
-  /* background-color: #634BF5; */
-  color:black;
+  background-color: #634BF5;
+  color:white;
   padding: 10px 25px;
-  /* border:none;
+  border:none;
   margin-left: 15px solid #E5E5E5;
   margin-bottom: 15px;
-  border-radius: 3px; */
+  border-radius: 3px;
 
 }
 .is-error{
